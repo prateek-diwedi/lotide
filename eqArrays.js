@@ -1,4 +1,4 @@
-const assertEqual = function (actual , expected)
+econst assertEqual = function (actual , expected)
 {
  // for (i = 0; i < assertEqual.length; i++){
   if ( actual === expected) 
